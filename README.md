@@ -1,3 +1,9 @@
+## Space Battle
+
+A little space battle game. Not the best computer AI, but it'll work. It is a player vs the computer. Control with arrow keys and the space bar to fire your lasers. Each win for the enemy or yourself will add to the score.
+
+Creates dynamic SVG ships that move on the screen, and also uses canvas effects for a background starfield.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
