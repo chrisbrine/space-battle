@@ -16,7 +16,6 @@ export default function Home() {
   const hitBy = 5;
 
   const hitPlayer = (): void => {
-    console.log('hitPlayer')
     setPlayerLife(playerLife - hitBy);
     if (playerLife - hitBy <= 0) {
       setGameOver(true);
